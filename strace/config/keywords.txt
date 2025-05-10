@@ -1,2 +1,0 @@
-strace
-reverse engineering

@@ -1,3 +1,0 @@
-remote dns
-cache poisoning attack
-pharming

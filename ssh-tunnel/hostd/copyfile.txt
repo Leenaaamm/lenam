@@ -1,2 +1,0 @@
-Version STUDENTID : This is a text file that you should copy over to host "base" using
-the tunnel.

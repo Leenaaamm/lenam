@@ -1,2 +1,0 @@
-#!/bin/bash
-su - david -c 'mysql -u david -h database -ppass4david -e "source david.sql"'

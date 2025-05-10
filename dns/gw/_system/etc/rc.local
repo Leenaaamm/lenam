@@ -1,9 +1,0 @@
-#!/bin/bash
-#
-
-#
-# restart the DNS forwarder (rely on DNS provided by ISP)
-#
-echo "nameserver 192.168.10.2" >/etc/resolv.conf
-/etc/init.d/dnsmasq restart
-

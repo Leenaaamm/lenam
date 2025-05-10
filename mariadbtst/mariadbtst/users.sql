@@ -1,7 +1,0 @@
-INSTALL SONAME 'auth_pam';
-CREATE USER 'mike'@'%' IDENTIFIED VIA pam USING 'mysql';
-
-CREATE DATABASE dumb;
-GRANT ALL ON dumb.* TO 'mike'@'%';
-FLUSH PRIVILEGES
-

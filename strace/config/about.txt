@@ -1,1 +1,0 @@
-Introduction to the use of strace for dynamic analysis
