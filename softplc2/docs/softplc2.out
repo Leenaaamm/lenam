@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Overview}{}% 1
+\BOOKMARK [1][-]{section.2}{Lab Environment}{}% 2
+\BOOKMARK [1][-]{section.3}{Lab topology}{}% 3
+\BOOKMARK [1][-]{section.4}{Tasks}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Explore}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Build and run PLC program}{section.4}% 6
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Build the Hello World Program}{subsection.4.2}% 7
+\BOOKMARK [2][-]{subsection.4.3}{Start the PLC user interface \046 Explore}{section.4}% 8
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Upload the ST program to the PLC}{subsection.4.3}% 9
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Test the PLC program}{subsection.4.3}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Observe Modbus traffic}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.5}{Replay coil commands}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.6}{Modify the ST program}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.7}{Modify the LD program}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Submission}{}% 15
